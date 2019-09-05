@@ -2,3 +2,5 @@
 
 feil i kodingen 
 test
+
+rettet feil i koding
