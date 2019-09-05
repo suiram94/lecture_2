@@ -1,3 +1,3 @@
 # lecture_2
 
-conflict
+feil i kodingen 
